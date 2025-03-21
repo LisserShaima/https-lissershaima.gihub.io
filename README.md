@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="#">Accueil</a></li>
                     </ul>
-     <a href="Séance 1 - Qu'est-ce qu'un réseau social" download>Télécharger le fichier</a>
+     <a href="Séance 1 - Qu'est-ce qu'un réseau social.docx" download>Télécharger le fichier</a>
    </nav>
     </header>
         </section>
