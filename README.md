@@ -14,10 +14,8 @@
             <ul>
                 <li><a href="#">Accueil</a></li>
                     </ul>
-      <a href="document.pdf"</a>
-
-        
-        </nav>
+     <a href="document.pdf" download>Télécharger le fichier</a>
+   </nav>
     </header>
         </section>
             <h2>Contact</h2>
