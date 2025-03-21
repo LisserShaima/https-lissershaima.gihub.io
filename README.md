@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site de Koko</title>
+    <title>Site de Lisser Shaïma</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,21 +13,17 @@
         <nav>
             <ul>
                 <li><a href="#">Accueil</a></li>
-                <li><a href="#about">À propos</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
+                    </ul>
         </nav>
     </header>
     <section id="about">
         <h2>À propos</h2>
-        <p>Ce site est un exemple simple pour apprendre à coder une page web. Tu peux personnaliser son contenu et son style !</p>
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Envoyez-moi un message à <a href="mailto:koko@example.com">koko@example.com</a>.</p>
-    </section>
+     </section>
     <footer>
-        <p>&copy; 2025 Site de Koko. Tous droits réservés.</p>
+        <p>&copy; 2025 Site de LISSER Shaïma. Tous droits réservés.</p>
     </footer>
 </body>
 </html>
