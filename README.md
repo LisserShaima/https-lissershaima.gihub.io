@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="#">Accueil</a></li>
                     </ul>
-    <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=:/Users/shaimalisser/Documents/lisser%20shaima.pdf" width="100%" height="500px"></iframe>
+    <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=:file:///C:/Users/shaimalisser/Documents/lisser%20shaima.pdf" width="100%" height="500px"></iframe>
 
    </nav>
     </header>
