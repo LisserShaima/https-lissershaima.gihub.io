@@ -14,13 +14,13 @@
             <ul>
                 <li><a href="#">Accueil</a></li>
                     </ul>
+      <a href="document.pdf"</a>
+
+        
         </nav>
     </header>
-    <section id="about">
-        <h2>À propos</h2>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
+        </section>
+            <h2>Contact</h2>
      </section>
     <footer>
         <p>&copy; 2025 Site de LISSER Shaïma. Tous droits réservés.</p>
